@@ -1,0 +1,19 @@
+footer{
+    background-color: #333;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8em;
+    gap: .2em;
+}
+footer>h4{
+    color: #fff;
+    font-family: 'Open Sans',sans-serif;
+
+}
+footer>a{
+    color: #adcce9;
+    font-family: 'Open Sans',sans-serif;
+
+}

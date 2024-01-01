@@ -1,0 +1,114 @@
+#pictures>#block3{
+    display: flex;
+    list-style: none;
+    gap: 1em;
+    margin: 1em 12% 0% 12%;
+    
+}
+#pictures>#block3>li{
+    border: 1px solid #fff;
+    background-color: #fff;
+    height: 33em;
+    width: 33%;
+}
+#pictures>#block3>.item7>img{
+    height: 250px;
+    width: 300px;
+    margin: 2em;
+}
+#pictures>#block3>.item8>img{
+    height: 250px;
+    width: 300px;
+    margin: 2em;
+}
+#pictures>#block3>.item9>img{
+    height: 250px;
+    width: 300px;
+    margin: 2em;
+}
+/* item7 */
+.item7>h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    font-family: 'Open Sans',sans-serif;
+
+}
+.item7>p{
+
+    margin-top: 30px;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.125rem;
+    line-height: 1.6;
+    margin: 0% 10% 0% 10%;
+    font-family: 'Open Sans',sans-serif;
+}
+.item7>h3{
+    margin-top: 25px;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+/* item8 */
+.item8>h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    font-family: 'Open Sans',sans-serif;
+
+}
+.item8>p{
+
+    margin-top: 30px;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.125rem;
+    line-height: 1.6;
+    margin: 0% 10% 0% 10%;
+    font-family: 'Open Sans',sans-serif;
+}
+.item8>h3{
+    margin-top: 25px;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+/* item9 */
+.item9>h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    font-family: 'Open Sans',sans-serif;
+
+}
+.item9>p{
+
+    margin-top: 30px;
+    text-align: center;
+    font-style: italic;
+    font-size: 1.125rem;
+    line-height: 1.6;
+    margin: 0% 10% 0% 10%;
+    font-family: 'Open Sans',sans-serif;
+}
+.item9>h3{
+    margin-top: 25px;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+#pictures>div{
+    margin-top: 2em;
+    color: #fff;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight:300;
+    font-family: 'Open Sans',sans-serif;
+}
+#pictures>div>a{
+    color: #fff;
+}
